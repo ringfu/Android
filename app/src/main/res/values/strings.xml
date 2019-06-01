@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">NEXT</string>
+    <string name="prev_button">PREV</string>
+
+    <!--follow are questions-->
+    <string name="question_canberra">Canberra is the capital of Australia</string>
+    <string name="question_ocean">is ocean bigger than land?</string>
+    <string name="question_land">can fish live on land?</string>
+    <string name="question_sky">can man fly in the sky?</string>
+    <string name="question_water">is water essential for human?</string>
+    <string name="question_wood">can man eat wood?</string>
+
+    <!--CheatActivity strings-->
+    <string name="warning_text">Sure to do this ?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong</string>
+
+</resources>
